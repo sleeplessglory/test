@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif, 'Times New Roman';
+    margin: 0;
+    background-image: url(../assets/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
